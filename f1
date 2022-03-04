@@ -1,4 +1,7 @@
 hi
 this is suman
 hello world
+<<<<<<< HEAD
 this is added to test rebase
+new file added
+>>>>>>> 4c14a86 (c5)
